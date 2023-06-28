@@ -10,13 +10,13 @@ Demo usage in a JupyterLite Lab
 
 Demo usage in a JuptyerLite REPL:
 
-- https://phcreery.github.io/dimstack-demo/repl/index.html?kernel=python&toolbar=1&code=%pip%20install%20-q%20ds%0Aimport%20dimstack%20as%20ds
+- https://phcreery.github.io/dimstack-demo/repl/index.html?kernel=python&toolbar=1&code=%pip%20install%20-q%20dimstack%0Aimport%20dimstack%20as%20ds
 
 Embed in your site:
 
 ```html
 <iframe
-  src="https://phcreery.github.io/dimstack-demo/repl/index.html?kernel=python&toolbar=1&code=%pip%20install%20-q%20ds%0Aimport%20dimstack%20as%20ds"
+  src="https://phcreery.github.io/dimstack-demo/repl/index.html?kernel=python&toolbar=1&code=%pip%20install%20-q%20dimstack%0Aimport%20dimstack%20as%20ds"
   width="100%"
   height="100%"
 ></iframe>
